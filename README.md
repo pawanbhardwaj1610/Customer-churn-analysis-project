@@ -86,3 +86,9 @@ Skills: Python, SQL, EDA, Machine Learning
 ### 1️⃣ Install Dependencies
 ```bash
 pip install -r requirements.txt
+
+##
+👤 Author Pawan Bhardwaj
+Aspiring Data Science Intern
+Skills: Python, SQL, EDA, Machine Learning
+
